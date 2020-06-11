@@ -15,3 +15,47 @@
 
 ## 杂感
 > 我们应该去正视的事情是，其实那些所谓运气好的人，真的往往是有实力的人。
+
+## Git 相关
+### `git stauts` 中文乱码
+> git 仓库c添加中文件名的文件时，`git status` 显示乱码，如下：
+```bash
+➜  funny_ideas git:(master) git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        "./\346\226\260\345\273\272 Microsoft Word \346\226\207\346\241\243.docx"
+
+nothing added to commit but untracked files present (use "git add" to track)
+```
+#### 解决办法
+> 设置 git 全局的设置：对 路径/文件名 不引用即可，如下：
+```bash
+➜  funny_ideas git:(master) ✗ git config --global core.quotepath false
+➜  funny_ideas git:(master) ✗ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        ./新建 Microsoft Word 文档.docx
+
+nothing added to commit but untracked files present (use "git add" to track)
+```
+
+## Linuxx 系统
+### [Debian](https://www.debian.org/)
+#### Debian 源设置
+```bash
+root@debian:~/.vim/bundle# cat /etc/apt/sources.list
+deb http://apt.x.netease.com:8660/debian/ jessie main non-free contrib
+deb http://apt.x.netease.com:8660/debian/ jessie-updates main non-free contrib
+deb-src http://apt.x.netease.com:8660/debian/ jessie main non-free contrib
+deb-src http://apt.x.netease.com:8660/debian/ jessie-updates main non-free contrib
+deb http://apt.x.netease.com:8660/debian-security/ jessie/updates main non-free contrib
+deb-src http://apt.x.netease.com:8660/debian-security/ jessie/updates main non-free contrib
+```
