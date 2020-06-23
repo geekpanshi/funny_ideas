@@ -20,7 +20,7 @@
 
 ## 常识
 ### 中国邻国
-> <img src="/pics/001_chine_neighbore.png" width="400" height="360" align=left></img>
+> ![中国邻国](/pics/001_chine_neighbore.png)
 >
 > 中国的邻国一共 20 个，陆地邻国 14 个，海洋邻国 6 个。
 
