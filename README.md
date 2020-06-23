@@ -20,9 +20,9 @@
 
 ## 常识
 ### 中国邻国
-> 中国的邻国一共 20 个，陆地邻国 14 个，海洋邻国 6 个。
+> <img src="/pics/001_chine_neighbore.png" width="400" height="360" align=left></img>
 >
-> <img src="/pics/001_chine_neighbore.png" width="400" height="360" align=left>中国邻国</img>
+> 中国的邻国一共 20 个，陆地邻国 14 个，海洋邻国 6 个。
 
 ## Git 相关
 ### `git stauts` 中文乱码
