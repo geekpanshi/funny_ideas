@@ -18,6 +18,9 @@
 >
 > 生活要做减法、减到不能再减的地步才是最好的状态的。
 
+## 小技巧
+> [HHKB](https://item.jd.com/62603602537.html) 可以使用快捷键 `Fn + Tabs` 切换输入法，长按 `Fn + Tabls` 锁定或解锁大写（Mac OS > 10.12 版本）。
+
 ## 常识
 ### 中国邻国
 > ![中国邻国](/pics/001_chine_neighbore.png)
