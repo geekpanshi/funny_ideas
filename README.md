@@ -19,7 +19,12 @@
 > 生活要做减法、减到不能再减的地步才是最好的状态的。
 
 ## 小技巧
-> [HHKB](https://item.jd.com/62603602537.html) 可以使用快捷键 `Fn + Tabs` 切换输入法，长按 `Fn + Tabls` 锁定或解锁大写（Mac OS > 10.12 版本）。
+### [HHKB](https://item.jd.com/62603602537.html)
+1. 可以使用快捷键 `Fn + Tab` 切换输入法，长按 `Fn + Tab` 锁定或解锁大写（Mac OS > 10.12 版本）。
+2. 在 windows 系统下 退格键 的使用，需要打开 dip3 开关。
+3. `Fn + Control + 1/2/3/4` 可以切换到配对的不同设备，`Fn + Control + 0` 切换到有线模式。
+>>
+>> ![hhkb](/pics/003_hhkb.png)
 
 ## 常识
 ### 中国邻国
