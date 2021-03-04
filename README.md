@@ -75,3 +75,10 @@ deb-src http://apt.x.netease.com:8660/debian/ jessie-updates main non-free contr
 deb http://apt.x.netease.com:8660/debian-security/ jessie/updates main non-free contrib
 deb-src http://apt.x.netease.com:8660/debian-security/ jessie/updates main non-free contrib
 ```
+## 使用 ssh 登录 win10
+1. 安装 OpenSSH 服务端
+`windows设置 -> 应用 -> 管理可选功能：默认只有“OpenSSH 客户端”。点击“添加功能”，找到“OpenSSH 服务器”，选中，安装。安装进度条如死机般，只管等待，直到“管理可选功能”中出现“OpenSSH 服务器”项目。`
+
+2. **以管理员身份**运行 `c:\user\user_name>net start sshd`
+
+3. 然后在物理机上输入命令：`c:\user\user_name>ssh user_name@192.168.157.131` 提示输入私钥密码，因为未使用密钥，直接回车，提示输入密码，即该用户的登录密码回车，登录成功。
