@@ -26,6 +26,12 @@
 >>
 >> ![hhkb](/pics/003_hhkb.png)
 
+#### HHKB 指法键位
+> ![hhkb 指法键位](/pics/004_hhkb.png)
+
+附：普通键盘指法键位图
+> ![普通键盘指法键位图](/pics/002_nomal_key_map.png)
+
 ## 常识
 ### 中国邻国
 > ![中国邻国](/pics/001_chine_neighbore.png)
