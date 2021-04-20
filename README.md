@@ -29,8 +29,31 @@
 #### HHKB 指法键位
 > ![hhkb 指法键位](/pics/004_hhkb.png)
 
-附：普通键盘指法键位图
+#### HHKB Dip 设置
+```
+sw1
+sw2 组合设置系统
+
+sw3 开启将 delete 设置为 backspace
+
+sw5 开启空白键和 alt 互换位置
+sw4 开启将左侧空白键设置为 fn
+
+sw6 唤醒
+```
+#### 我的 HHKB 改键
+> 我的 dip 设置 —— macOS `010111` 、 Windows `010101`。
+>
+> ![我的 HHKB HYBRID TYPE-S 改键（for macOS）](/pics/005_hhkb-myconfig.jpg)
+
+附：
+
+1. 普通键盘指法键位图
 > ![普通键盘指法键位图](/pics/002_nomal_key_map.png)
+
+2. [HHKB 官方 Keymap Tool、固件和手册下载](https://happyhackingkb.com/download/)
+
+3. [为你讲解 HHKB 背后的秘密](https://www.wstx.com/p-24844)
 
 ## 常识
 ### 中国邻国
