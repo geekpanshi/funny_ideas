@@ -50,7 +50,7 @@ sw6 是否唤醒电脑
 | ON   | ON   | --（未使用）                 |
 
 #### 我的 HHKB 改键
-> 我的 dip 设置 —— macOS `010111` 、 Windows `010101`。
+> 我的 dip 设置 —— macOS `010111` 、 Windows `010001`。
 >
 > ![我的 HHKB HYBRID TYPE-S 改键（for macOS）](/pics/005_hhkb-myconfig.jpg)
 
