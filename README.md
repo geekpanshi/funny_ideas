@@ -36,11 +36,19 @@ sw2 组合设置系统
 
 sw3 开启将 delete 设置为 backspace
 
-sw5 开启空白键和 alt 互换位置
-sw4 开启将左侧空白键设置为 fn
+sw4 开启后将 左“◇” 键设置为 FN
+sw5 开启后 ALT 键和 “◇” 键互换
 
-sw6 唤醒
+sw6 是否唤醒电脑
 ```
+
+| sw1  | sw2  | Mode      |
+| :--: | :--: | :-------: |
+| OFF  | OFF  | HHK（Windows/Android）       |
+| ON   | OFF  | Lite Ext. （Windows/Android）|
+| OFF  | ON   | Macintosh                    |
+| ON   | ON   | --（未使用）                 |
+
 #### 我的 HHKB 改键
 > 我的 dip 设置 —— macOS `010111` 、 Windows `010101`。
 >
