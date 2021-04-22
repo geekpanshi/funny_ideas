@@ -54,6 +54,9 @@ sw6 是否唤醒电脑
 >
 > ![我的 HHKB HYBRID TYPE-S 改键（for macOS）](/pics/005_hhkb-myconfig.jpg)
 
+#### HHKB professional hybrid 说明书
+> [HHKB说明书.pdf](/docs/HHKB说明书.pdf)
+
 附：
 
 1. 普通键盘指法键位图
