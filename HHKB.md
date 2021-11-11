@@ -1,6 +1,11 @@
-## [HHKB](https://item.jd.com/62603602537.html)笔记
+## [HHKB 键盘](https://item.jd.com/62603602537.html) 笔记
 
 ---
+
+### 简介
+> Happy Hacking Keyboard（缩写为 HHKB）是由株式会社 PFU（富士通的全资子公司）所经销的计算机键盘。本键盘由和田英一和 PFU 研究所共同开发，于 1996 年 12 月开始销售。
+
+### 使用技巧
 
 1. 可以使用快捷键 `Fn + Tab` 切换输入法，长按 `Fn + Tab` 锁定或解锁大写（Mac OS > 10.12 版本）。
 2. 在 windows 系统下 退格键 的使用，需要打开 dip3 开关。
@@ -39,7 +44,7 @@ sw6 是否唤醒电脑
 ### HHKB professional hybrid 说明书
 > [HHKB说明书.pdf](https://raw.githubusercontent.com/xingangshi/funny_ideas/master/docs/HHKB%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf)
 
-### 附：
+### 备注
 
 1. 普通键盘指法键位图
 >
